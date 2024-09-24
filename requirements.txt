@@ -1,0 +1,6 @@
+Flask==2.3.2                # Flask framework
+gunicorn==20.1.0            # WSGI server for serving the Flask app
+setuptools==67.6.1          # A package development and distribution library
+requests==2.31.0            # For making HTTP requests between APIs
+zappa==0.54.2               # For deploying to AWS Lambda
+python-dotenv==1.0.0       # For managing environment variables
